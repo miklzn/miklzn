@@ -10,11 +10,11 @@ En septiembre de 2022 me plantee una nueva meta, aprender a programar, por lo qu
 # 📊 Estadisticas:
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=miklzn&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=miklzn&theme=vue&hide_border=true&include_all_commits=true&count_private=false" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miklzn&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miklzn&theme=vue&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
