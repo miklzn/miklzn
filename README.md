@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-En septiembre de 2022 me plantee una nueva meta, aprender a programar, por lo que decidí ingresar en un bootcamp de programación en JavaScript en el que, con más de 800 horas de duración, adquiri todas las habilidades técnicas y blandas para desarrollarme en esta industria.
+En septiembre de 2022 me plantee una nueva meta, aprender a programar, por lo que decidí ingresar en un bootcamp de programación en JavaScript en el que, con más de 800 horas de duración, adquiri todas las habilidades técnicas y blandas para desarrollarme en la industria tecnológica.
 
 
 ## 🌐 Contacto:
