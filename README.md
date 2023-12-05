@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Mike, un desarrollador con mas de un año de experiencia autodidacta. Durante mi último año, me sumergí en nuevas tecnologías y completé proyectos freelance que incluyen landing pages y pequeñas tiendas en línea. Mi enfoque va más allá del código; busco constantemente oportunidades para aprender y crecer en un entorno colaborativo. Estoy emocionado por desafíos nuevos y estoy abierto a explorar diversas áreas de desarrollo.
 
-### 🤖 Tecnologías
+### 🤖 Tecnologías:
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
