@@ -1,6 +1,6 @@
 <h1 align="center">Mikelzon Sarabia </h1>
 
-¡Hola! Soy Mike, desarrollador con dos años de experiencia autodidacta. Durante mi último año, me sumergí en nuevas tecnologías y completé proyectos freelance que incluyen landing pages y pequeñas tiendas en línea. Mi enfoque va más allá del código; busco constantemente oportunidades para aprender y crecer en un entorno colaborativo. Estoy emocionado por desafíos nuevos y estoy abierto a explorar diversas áreas de desarrollo.
+¡Hola! Soy Mike, desarrollador con mas de 3 años de experiencia autodidacta. Durante mi último año, me sumergí en nuevas tecnologías y completé proyectos freelance que incluyen landing pages y pequeñas tiendas en línea. Mi enfoque va más allá del código; busco constantemente oportunidades para aprender y crecer en un entorno colaborativo. Estoy emocionado por desafíos nuevos y estoy abierto a explorar diversas áreas de desarrollo.
 
 ### 🤖 Tecnologías:
 
