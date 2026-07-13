@@ -1,6 +1,6 @@
 <h1 align="center">Mikelzon Sarabia </h1>
 
-¡Hola! Soy Mike, desarrollador con mas de 3 años de experiencia autodidacta. Durante mi último año, me sumergí en nuevas tecnologías y completé proyectos freelance que incluyen landing pages y pequeñas tiendas en línea. Mi enfoque va más allá del código; busco constantemente oportunidades para aprender y crecer en un entorno colaborativo. Estoy emocionado por desafíos nuevos y estoy abierto a explorar diversas áreas de desarrollo.
+¡Hola! Soy Mike, desarrollador con mas de 3 años de experiencia autodidacta. Durante mi último año, me sumergí en nuevas tecnologías y completé proyectos freelance que incluyen landing pages y pequeñas tiendas en línea y desarrollo de apps. Mi enfoque va más allá del código; busco constantemente oportunidades para aprender y crecer en un entorno colaborativo. Estoy emocionado por desafíos nuevos y estoy abierto a explorar diversas áreas de desarrollo.
 
 ### 🤖 Tecnologías:
 
@@ -18,6 +18,8 @@
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
 <br />
 <br />
